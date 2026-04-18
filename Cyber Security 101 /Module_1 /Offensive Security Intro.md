@@ -73,4 +73,4 @@ through the UI.
 
 ## 🔥 My Understanding
 
-This module helped me understand that jacking is not just about tools, but about thinking differently. Enumeration and curiosity play a key role in finding vulnerabilities.
+This module helped me understand that Hacking is not just about tools, but about thinking differently. Enumeration and curiosity play a key role in finding vulnerabilities.
