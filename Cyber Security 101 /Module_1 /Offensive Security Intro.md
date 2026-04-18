@@ -70,3 +70,7 @@ through the UI.
 
 ### Screenshort
 <img width="1356" height="604" alt="01_task4" src="https://github.com/user-attachments/assets/42724b27-0704-476a-82c1-5ac11c574ba1" />
+
+## 🔥 My Understanding
+
+This module helped me understand that jacking is not just about tools, but about thinking differently. Enumeration and curiosity play a key role in finding vulnerabilities.
