@@ -50,3 +50,57 @@ Commands:
 Key Takeaways:
 - Linux uses a hierarchical filesystem
 - Navigation and file management are essential skills
+
+## Task 6: Searching for Files
+
+This task introduced searching for files and content in Linux.
+
+Commands:
+- find → search files
+- grep → search text inside files
+- locate → fast file search
+
+Key Takeaways:
+- Searching is important for finding sensitive data
+- Useful in penetration testing and analysis
+
+## Task 7: An Introduction to Shell Operators
+
+This task introduced shell operators used to combine commands.
+
+Operators:
+- && → run next command if success
+- || → run if previous fails
+- | → pipe output
+- > → overwrite output to file
+- >> → append output
+
+Key Takeaways:
+- Operators improve efficiency
+- Enable command chaining and automation
+
+## Task 8: Conclusion
+
+This module covered the basics of Linux.
+
+Key Takeaways:
+- Learned essential commands
+- Understood filesystem navigation
+- Explored file searching and shell operators
+
+## Task 9: Next Module
+
+Linux Fundamentals Part 2 will cover advanced topics like:
+- File permissions
+- User management
+- System-level operations
+
+## 🔥 My Understanding
+
+This module helped me build a strong foundation in Linux. I learned how to:
+- Navigate the filesystem
+- Run commands efficiently
+- Search for files and data
+- Use shell operators to automate tasks
+
+These skills are essential for cybersecurity and penetration testing.
