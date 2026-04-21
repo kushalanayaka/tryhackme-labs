@@ -1,12 +1,9 @@
 # 🪟 Windows Fundamentals 1
-These notes focus on understanding Windows concepts from a **cybersecurity perspective**, emphasizing enumeration, privilege control, and attack surfaces.
+
 
 ---
 
 ## 🧪 Task 1: Windows Editions
-
-### 🔑 Keywords
-- system information
 
 ### 🧠 Explanation
 Windows Editions (Home, Pro, Enterprise) define the system’s capabilities and available security features. Using tools like `systeminfo`, we can gather detailed information about the operating system, including version, architecture, installed updates, and domain membership.
@@ -23,8 +20,6 @@ Windows Editions (Home, Pro, Enterprise) define the system’s capabilities and 
 
 ## 🧪 Task 2: The Desktop (GUI)
 
-### 🔑 Keywords
-- GUI, desktop, start menu, search box, task menu, taskbar, toolbar, notification area, display settings, personalization
 
 ### 🧠 Explanation
 The Graphical User Interface (GUI) is the primary way users interact with Windows. Components such as the Start Menu and Search Box provide access to applications and system utilities. The Taskbar and Notification Area display active processes and background services, while Display Settings and Personalization control the user environment.
@@ -43,8 +38,7 @@ The Graphical User Interface (GUI) is the primary way users interact with Window
 
 ## 🧪 Task 3: Introduction to Windows
 
-### 🔑 Keywords
-- introduction to windows
+
 
 ### 🧠 Explanation
 Windows is a multi-user operating system with a layered architecture, including kernel mode and user mode. It manages processes, memory, and system resources while providing both GUI and command-line interfaces.
@@ -62,9 +56,6 @@ Windows is a multi-user operating system with a layered architecture, including 
 
 ## 🧪 Task 4: The File System
 
-### 🔑 Keywords
-- FAT, HPFS, NTFS, EFS
-- full control, modify, read, execute, list folder
 
 ### 🧠 Explanation
 Windows supports multiple file systems, but NTFS is the standard. NTFS provides advanced features such as Access Control Lists (ACLs) and Encrypting File System (EFS). Permissions define what actions users can perform on files and folders.
@@ -87,8 +78,7 @@ Permission Levels:
 
 ## 🧪 Task 5: The Windows\System32 Folder
 
-### 🔑 Keywords
-- %windir%
+
 
 ### 🧠 Explanation
 `%windir%` refers to the Windows installation directory (usually `C:\Windows`). The System32 folder contains critical system files, including executables, DLLs, and core OS components required for system operation.
@@ -105,10 +95,7 @@ Permission Levels:
 
 ## 🧪 Task 6: User Accounts, Profiles, and Permissions
 
-### 🔑 Keywords
-- start menu, other user, add someone
-- local user, group management
-- lusrmgr.msc
+
 
 ### 🧠 Explanation
 Windows manages access using user accounts and groups. Local users can be created and managed through tools like `lusrmgr.msc`, which allows administrators to assign users to groups and define access privileges.
@@ -127,8 +114,7 @@ Windows manages access using user accounts and groups. Local users can be create
 
 ## 🧪 Task 7: User Account Control (UAC)
 
-### 🔑 Keywords
-- UAC
+
 
 ### 🧠 Explanation
 User Account Control (UAC) is a security feature that prompts users for permission before executing actions that require elevated privileges.
@@ -143,9 +129,7 @@ User Account Control (UAC) is a security feature that prompts users for permissi
 
 ## 🧪 Task 8: Settings and the Control Panel
 
-### 🔑 Keywords
-- settings menu, control panel
-- programs, programs and features
+
 
 ### 🧠 Explanation
 Settings and Control Panel provide interfaces to configure system behavior and manage installed applications. Programs and Features lists all installed software on the system.
@@ -162,8 +146,7 @@ Settings and Control Panel provide interfaces to configure system behavior and m
 
 ## 🧪 Task 9: Task Manager
 
-### 🔑 Keywords
-- task manager, performance, more details
+
 
 ### 🧠 Explanation
 Task Manager provides real-time information about running processes, system performance, and startup applications. It allows users to monitor and control system activity.
@@ -179,9 +162,6 @@ Task Manager provides real-time information about running processes, system perf
 ---
 
 ## 🧪 Task 10: Conclusion
-
-### 🔑 Keywords
-- revision
 
 ### 🧠 Explanation
 This module provides a structured understanding of Windows components, including system architecture, file systems, user management, and system tools.
